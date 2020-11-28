@@ -114,4 +114,4 @@ package-lock.json
 *.hprof
 
 
-*.zip
+.zip
