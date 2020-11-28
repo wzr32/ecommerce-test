@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import TabBarNav from './modules/navigation/TabBarNav';
+import TabBarNav from './modules/navigation/TabBarNav'; 
 
 const App = () => {
   return (
